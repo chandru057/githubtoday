@@ -1,1 +1,3 @@
 hello java welcome to devops
+
+git fetch and git pull
