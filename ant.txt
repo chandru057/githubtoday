@@ -1,1 +1,6 @@
 ant.xml exampleant 
+#include stdio.h
+int x
+x=0
+print int
+#exit
